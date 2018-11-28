@@ -1,0 +1,2 @@
+# DjangoProjectShop
+laboratorium SZT
